@@ -28,7 +28,7 @@ I'm Software Trainee at Programmer's Beyond IT
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/720448285088678019/975897635212902440/download20220501200640.png?width=594&height=594">
 </div>
   
   ##
