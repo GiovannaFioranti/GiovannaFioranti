@@ -1,7 +1,5 @@
 ##  Hi, I'm Giovanna!
 
-I'm Software Trainee at Programmer's Beyond IT
-
   👩🏻‍💻 I’m currently working on back-end
   
   🌱 I’m learning C#
