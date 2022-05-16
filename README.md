@@ -10,8 +10,8 @@ I'm Software Trainee at Programmer's Beyond IT
 
 <div align="center">
   <a href="https://github.com/GiovannaFioranti">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannafioranti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannafioranti&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannafioranti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannafioranti&layout=compact&langs_count=7&theme=onedark"/>
 </div> <br>
   <br>
   <br>
