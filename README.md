@@ -1,9 +1,6 @@
 ##  Hi, I'm Giovanna!
-
   👩🏻‍💻 I’m currently working on front-end and back-end
-  
   🌱 I’m learning C#
-  
   🤞🏻 I’m looking to collaborate on internal projects
 
 <div>
