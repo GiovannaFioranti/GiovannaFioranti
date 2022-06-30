@@ -8,8 +8,7 @@
 
 <div>
   <a href="https://github.com/GiovannaFioranti">
-  <img height="180em" src="https://github.com/GiovannaFioranti">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannafioranti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannafioranti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannafioranti&layout=compact&langs_count=7&theme=tokyonight"/>
 <div>
 
